@@ -13,5 +13,4 @@ Project built on Next Level Week of Rocketseat
 - HTML
 - CSS
 - Git and GitHub
-- 
 
